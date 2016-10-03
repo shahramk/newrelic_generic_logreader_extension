@@ -6,8 +6,8 @@ The Generic Log Reader plugin for New Relic opens a log file with name/value pai
 
 ##Requirements
 
-*    A New Relic account. If you are not already a New Relic user, you can signup for a free account at http://newrelic.com
-*    Obtain the New Relic Generic Log Reader plugin
+*    A New Relic account. If you are not already a New Relic user, you can signup for a free account at http://newrelic.com.
+*    Obtain the New Relic Generic Log Reader plugin..
 *    A log file containing name/value pairs, separated by a separator character.
 *    A configured Java Runtime (JRE) environment Version 1.7.
 *    Network access to New Relic
